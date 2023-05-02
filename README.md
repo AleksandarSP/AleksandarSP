@@ -6,7 +6,6 @@ Hi there 👋
 
 👯 I’m looking to collaborate on any software project based on JS
 
-
 <br />
 
 ----
@@ -24,6 +23,24 @@ Hi there 👋
 [telegram]: https://t.me/hamenesku
 [ask_mail]: mailto:aleksandar.stefanov.p@gmail.com
 
+
+
 ---
+                                                           (                 ,&&&.
+                                                            )                .,.&&
+                                                           (  (              \=__/
+                                                               )             ,'-'.
+                                                         (    (  ,,      _.__|/ /|
+                                                          ) /\ -((------((_|___/ |
+                                                        (  // | (`'      ((  `'--|
+                                                      _ -.;_/ \\--._      \\ \-._/.
+                                                     (_;-// | \ \-'.\    <_,\_\`--'|
+                                                     ( `.__ _  ___,')      <_,-'__,'
+                                                      `'(_ )_)(_)_)'
+                                                      
+                                                    
+                                                              COOKING SOME BUGS
+
+
 
 <!--START_SECTION:activity-->
